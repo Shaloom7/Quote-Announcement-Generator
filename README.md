@@ -24,7 +24,7 @@ This is a Python command-line tool that simplifies the creation of quote and ann
     pip install Pillow
     ```
 
-**Usage:**
+    **Usage:**
 
-```bash
-python quote_generator.py "Your Qoute Here" output_02.png -b Background.jpg
+    ```bash
+    python quote_generator.py "Your Qoute Here" output_02.png -b Background.jpg
