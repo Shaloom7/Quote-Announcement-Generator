@@ -27,4 +27,7 @@ This is a Python command-line tool that simplifies the creation of quote and ann
     **Usage:**
 
     ```bash
-    python quote_generator.py "Your Qoute Here" output_02.png -b Background.jpg
+    python quote_generator.py "Your Qoute Here" output.png -b Background.jpg
+
+    background.jpg <-- Input image file name
+    output.png <-- Name for saving the output
